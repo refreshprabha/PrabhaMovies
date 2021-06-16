@@ -14,7 +14,7 @@ async def start(client, message):
         InlineKeyboardButton('📜 Support Person', url='https://t.me/TiruppurPrabha'),
         InlineKeyboardButton('For Updates ♻️', url='https://t.me/TiruppurPrabha')
     ],[
-        InlineKeyboardButton('SouceCode 💡', url='https://t.me/TiruppurPrabha'')
+        InlineKeyboardButton('SouceCode 💡', url='https://github.com/refreshprabha/PrabhaMoviesBot')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_message(
