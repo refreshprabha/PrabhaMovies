@@ -5,16 +5,16 @@ class Translation(object):
   START_TXT = """<b>Hai {}!!</b>
 <i>I'm Prabha Movies Bot</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
-  HELP_TXT = """<b>Follow These Steps!!</b>
-<b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
-<b>• Then give admin permission in your personal telegram channel</b>
-<b>• Then send any message In your personal telegram channel</b>
-<b>• Then use /run command in your bot</b>
-<b><u>Available Command</b></u>
-* /start - <b>Bot Alive</b>
-* /help - <b>more help</b>
-* /run - <b>start forward</b>
-* /about - <b>About Me</b>"""
+  HELP_TXT = """<b>1</b>
+<b>• 2</b>
+<b>• 3</b>
+<b>• 4</b>
+<b>• 5</b>
+<b><u>6</b></u>
+* 7 - <b>7</b>
+* 8 - <b>8</b>
+* 9 - <b>9</b>
+* 10 - <b>10</b>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 <b>Name :</b> <code>Prabha Movies Bot</code>
 <b>Credit :</b> <code>Prabha</code>
